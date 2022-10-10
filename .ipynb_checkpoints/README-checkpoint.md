@@ -1,0 +1,1 @@
+The folder contains the two projects undertaken in the completion of the IBM Data Analytics certificate in the course, databases and sql for data science with python.
